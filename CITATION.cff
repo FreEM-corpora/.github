@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use FreEM resources, please cite the project as below. Each corpus has its own citation file in its repository."
+type: dataset
+title: "FreEM: corpora and NLP models for Early Modern French"
+abstract: >-
+  FreEM provides open corpora and NLP models for Early Modern French
+  (16th–18th centuries): lemmatisation, part-of-speech tagging, morphology,
+  spelling normalisation and named entity recognition.
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+    affiliation: University of Geneva
+  - family-names: Ing
+    given-names: Lucence
+    orcid: https://orcid.org/0000-0002-8742-3000
+    affiliation: Inria Paris
+  - family-names: Solfrini
+    given-names: Sonia
+    orcid: https://orcid.org/0009-0009-7367-048X
+    affiliation: University of Geneva
+  - family-names: Clérice
+    given-names: Thibault
+    orcid: https://orcid.org/0000-0003-1852-9204
+    affiliation: Inria Paris
+  - family-names: Ortiz Suárez
+    given-names: Pedro
+    orcid: https://orcid.org/0000-0003-0343-8852
+  - family-names: Bawden
+    given-names: Rachel
+    orcid: https://orcid.org/0000-0001-9553-1768
+    affiliation: Inria Paris
+  - family-names: Sagot
+    given-names: Benoît
+    orcid: https://orcid.org/0000-0001-8957-9503
+    affiliation: Inria Paris
+  - family-names: Gambette
+    given-names: Philippe
+    orcid: https://orcid.org/0000-0001-7062-0262
+    affiliation: Université Gustave Eiffel
+  - family-names: Bartz
+    given-names: Alexandre
+    orcid: https://orcid.org/0000-0003-0850-8266
+url: "https://freem-corpora.github.io/"
+repository-code: "https://github.com/FreEM-corpora"
+keywords:
+  - Early Modern French
+  - corpus
+  - lemmatisation
+  - POS tagging
+  - spelling normalisation
+  - named entity recognition
+  - digital humanities
